@@ -38,11 +38,11 @@ const styles = StyleSheet.create({
 export default class LoadEarlier extends React.Component<Props> {
   renderLoading() {
     if (this.props.isLoadingEarlier === false) {
-      return <Text style={styles.text}>さらに読み込む</Text>
+      return <Text style={styles.text}>load earlier messages...</Text>
     }
     return (
       <View>
-        <Text style={[styles.text, { opacity: 0 }]}>さらに読み込む</Text>
+        <Text style={[styles.text, { opacity: 0 }]}>load earlier messages...</Text>
         <ActivityIndicator color="#aaa" size="small" style={styles.activityIndicator} />
       </View>
     )
