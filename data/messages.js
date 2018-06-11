@@ -16,7 +16,7 @@ module.exports = [
   },
   {
     _id: Math.round(Math.random() * 1000000),
-    text: 'Are you building a chat app?',
+    text: 'test',
     createdAt: new Date(Date.UTC(2016, 7, 30, 17, 20, 0)),
     user: {
       _id: 2,
@@ -25,7 +25,233 @@ module.exports = [
   },
   {
     _id: Math.round(Math.random() * 1000000),
-    text: 'You are officially rocking GiftedChat.',
+    text: 'test',
+    createdAt: new Date(Date.UTC(2016, 7, 30, 17, 20, 0)),
+    user: {
+      _id: 2,
+      name: 'React Native',
+    },
+  },
+  {
+    _id: Math.round(Math.random() * 1000000),
+    text: 'Where do u live?',
+    createdAt: new Date(Date.UTC(2016, 7, 30, 17, 20, 0)),
+    user: {
+      _id: 2,
+      name: 'React Native',
+    },
+  },
+  {
+    _id: Math.round(Math.random() * 1000000),
+    text: 'yes',
+    createdAt: new Date(Date.UTC(2016, 7, 30, 17, 20, 0)),
+    user: {
+      _id: 1,
+      name: 'Developer',
+    },
+  },
+  {
+    _id: Math.round(Math.random() * 1000000),
+    text: 'Where do u live?',
+    createdAt: new Date(Date.UTC(2016, 7, 30, 17, 20, 0)),
+    user: {
+      _id: 2,
+      name: 'React Native',
+    },
+  },
+  {
+    _id: Math.round(Math.random() * 1000000),
+    text: 'yes',
+    createdAt: new Date(Date.UTC(2016, 7, 30, 17, 20, 0)),
+    user: {
+      _id: 1,
+      name: 'Developer',
+    },
+  },
+  {
+    _id: Math.round(Math.random() * 1000000),
+    text: 'Where do u live?',
+    createdAt: new Date(Date.UTC(2016, 7, 30, 17, 20, 0)),
+    user: {
+      _id: 2,
+      name: 'React Native',
+    },
+  },
+  {
+    _id: Math.round(Math.random() * 1000000),
+    text: 'yes',
+    createdAt: new Date(Date.UTC(2016, 7, 30, 17, 20, 0)),
+    user: {
+      _id: 1,
+      name: 'Developer',
+    },
+  },
+  {
+    _id: Math.round(Math.random() * 1000000),
+    text: 'Where do u live?',
+    createdAt: new Date(Date.UTC(2016, 7, 30, 17, 20, 0)),
+    user: {
+      _id: 2,
+      name: 'React Native',
+    },
+  },
+  {
+    _id: Math.round(Math.random() * 1000000),
+    text: 'yes',
+    createdAt: new Date(Date.UTC(2016, 7, 30, 17, 20, 0)),
+    user: {
+      _id: 1,
+      name: 'Developer',
+    },
+  },
+  {
+    _id: Math.round(Math.random() * 1000000),
+    text: 'Where do u live?',
+    createdAt: new Date(Date.UTC(2016, 7, 30, 17, 20, 0)),
+    user: {
+      _id: 2,
+      name: 'React Native',
+    },
+  },
+  {
+    _id: Math.round(Math.random() * 1000000),
+    text: 'yes',
+    createdAt: new Date(Date.UTC(2016, 7, 30, 17, 20, 0)),
+    user: {
+      _id: 1,
+      name: 'Developer',
+    },
+  },
+  {
+    _id: Math.round(Math.random() * 1000000),
+    text: 'Where do u live?',
+    createdAt: new Date(Date.UTC(2016, 7, 30, 17, 20, 0)),
+    user: {
+      _id: 2,
+      name: 'React Native',
+    },
+  },
+  {
+    _id: Math.round(Math.random() * 1000000),
+    text: 'yes',
+    createdAt: new Date(Date.UTC(2016, 7, 30, 17, 20, 0)),
+    user: {
+      _id: 1,
+      name: 'Developer',
+    },
+  },
+  {
+    _id: Math.round(Math.random() * 1000000),
+    text: 'Where do u live?',
+    createdAt: new Date(Date.UTC(2016, 7, 30, 17, 20, 0)),
+    user: {
+      _id: 2,
+      name: 'React Native',
+    },
+  },
+  {
+    _id: Math.round(Math.random() * 1000000),
+    text: 'yes',
+    createdAt: new Date(Date.UTC(2016, 7, 30, 17, 20, 0)),
+    user: {
+      _id: 1,
+      name: 'Developer',
+    },
+  },
+  {
+    _id: Math.round(Math.random() * 1000000),
+    text: 'Where do u live?',
+    createdAt: new Date(Date.UTC(2016, 7, 30, 17, 20, 0)),
+    user: {
+      _id: 2,
+      name: 'React Native',
+    },
+  },
+  {
+    _id: Math.round(Math.random() * 1000000),
+    text: 'yes',
+    createdAt: new Date(Date.UTC(2016, 7, 30, 17, 20, 0)),
+    user: {
+      _id: 1,
+      name: 'Developer',
+    },
+  },
+  {
+    _id: Math.round(Math.random() * 1000000),
+    text: 'test',
+    createdAt: new Date(Date.UTC(2016, 7, 30, 17, 20, 0)),
+    user: {
+      _id: 2,
+      name: 'React Native',
+    },
+  },
+  {
+    _id: Math.round(Math.random() * 1000000),
+    text: 'test',
+    createdAt: new Date(Date.UTC(2016, 7, 30, 17, 20, 0)),
+    user: {
+      _id: 2,
+      name: 'React Native',
+    },
+  },
+
+  {
+    _id: Math.round(Math.random() * 1000000),
+    text: 'test',
+    createdAt: new Date(Date.UTC(2016, 7, 30, 17, 20, 0)),
+    user: {
+      _id: 2,
+      name: 'React Native',
+    },
+  },
+  {
+    _id: Math.round(Math.random() * 1000000),
+    text: 'Where do u live?',
+    createdAt: new Date(Date.UTC(2016, 7, 30, 17, 20, 0)),
+    user: {
+      _id: 2,
+      name: 'React Native',
+    },
+  },
+  {
+    _id: Math.round(Math.random() * 1000000),
+    text: 'yes',
+    createdAt: new Date(Date.UTC(2016, 7, 30, 17, 20, 0)),
+    user: {
+      _id: 1,
+      name: 'Developer',
+    },
+  },
+  {
+    _id: Math.round(Math.random() * 1000000),
+    text: 'Are u a developer ?',
+    createdAt: new Date(Date.UTC(2016, 7, 30, 17, 20, 0)),
+    user: {
+      _id: 2,
+      name: 'React Native',
+    },
+  },
+  {
+    _id: Math.round(Math.random() * 1000000),
+    text: 'I am React Native',
+    createdAt: new Date(Date.UTC(2016, 7, 30, 17, 20, 0)),
+    user: {
+      _id: 2,
+      name: 'React Native',
+    },
+  },
+  {
+    _id: Math.round(Math.random() * 1000000),
+    text: 'hi',
+    createdAt: new Date(Date.UTC(2016, 7, 30, 17, 20, 0)),
+    user: {
+      _id: 2,
+      name: 'React Native',
+    },
+  },
+  {
+    _id: Math.round(Math.random() * 1000000),
+    text: 'this is system message',
     createdAt: new Date(Date.UTC(2016, 7, 30, 17, 20, 0)),
     system: true,
   },
